@@ -25,7 +25,7 @@ public class Main {
 		d.pay("1234-1234", 10000);
 		d.pay("1234-12334", 10000);
 		System.out.println("card:" + d.balance);
-
+// commit
 	}
 
 }
